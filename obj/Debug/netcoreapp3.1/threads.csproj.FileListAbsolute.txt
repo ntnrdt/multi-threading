@@ -1,0 +1,11 @@
+/Users/natandutra/Projects/Exp/threads/bin/Debug/netcoreapp3.1/threads
+/Users/natandutra/Projects/Exp/threads/bin/Debug/netcoreapp3.1/threads.deps.json
+/Users/natandutra/Projects/Exp/threads/bin/Debug/netcoreapp3.1/threads.runtimeconfig.json
+/Users/natandutra/Projects/Exp/threads/bin/Debug/netcoreapp3.1/threads.runtimeconfig.dev.json
+/Users/natandutra/Projects/Exp/threads/bin/Debug/netcoreapp3.1/threads.dll
+/Users/natandutra/Projects/Exp/threads/bin/Debug/netcoreapp3.1/threads.pdb
+/Users/natandutra/Projects/Exp/threads/obj/Debug/netcoreapp3.1/threads.csprojAssemblyReference.cache
+/Users/natandutra/Projects/Exp/threads/obj/Debug/netcoreapp3.1/threads.AssemblyInfoInputs.cache
+/Users/natandutra/Projects/Exp/threads/obj/Debug/netcoreapp3.1/threads.AssemblyInfo.cs
+/Users/natandutra/Projects/Exp/threads/obj/Debug/netcoreapp3.1/threads.dll
+/Users/natandutra/Projects/Exp/threads/obj/Debug/netcoreapp3.1/threads.pdb
